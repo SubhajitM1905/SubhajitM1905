@@ -36,10 +36,18 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/SubhajitM1905/SubhajitM1905/output/github-contribution-grid-snake.svg" />
+  
+  <!-- GitHub Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=SubhajitM1905&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  
+  <br><br>
+  
+  <!-- GitHub Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SubhajitM1905&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
   
   <br/>
 </div>
+
 
 <hr/>
 
