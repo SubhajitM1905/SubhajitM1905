@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Subhajit+Misra!;" />
 </h1>
 
-<h3 align="center">🎓 Student | 💻 Aspiring Developer | 🚀 Lifelong Learner</h3>
+<h3 align="center">🎓 Student | 🚀 Lifelong Learner</h3>
 
 ---
 
