@@ -16,7 +16,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40" height="40">
   </a>
 
-  <a href="https://www.linkedin.com/in/your_username/" target="_blank">
+  <a href="https://www.linkedin.com/in/subhajit-misra-421b4637a//" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="40" height="40">
   </a>
 
