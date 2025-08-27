@@ -15,7 +15,7 @@
   <a href="mailto:subhajitmisra1905@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/subhajit-misra-07545829a/" target="_blank">
+  <a href="https://www.linkedin.com/in/subhajit-misra-421b4637a//" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
