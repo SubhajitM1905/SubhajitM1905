@@ -13,12 +13,18 @@
 <!-- Social Links -->
 <div align="center"> 
   <a href="mailto:subhajitmisra1905@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40" height="40">
   </a>
-  <a href="https://www.linkedin.com/in/subhajit-misra-421b4637a//" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+  <a href="https://www.linkedin.com/in/your_username/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="40" height="40">
   </a>
-</div>
+
+
+  <a href="https://www.instagram.com/subhajit_1905//" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40" height="40">
+  </a>
+
 
 ---
 
