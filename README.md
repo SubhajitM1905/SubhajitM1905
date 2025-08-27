@@ -70,9 +70,9 @@
 ---
 
 ## 🌟 About Me  
-- 🎓 Currently studying at **Chitkara University**  
-- 💡 Passionate about **Web Development & Problem Solving**  
-- 🚀 Always eager to learn new **technologies & frameworks**  
+- 🎓 Currently studying at **University**  
+- 💡 Passionate about **Gaining Knowledge**  
+- 🚀 Always eager to learn how **the things are working**  
 - 📚 Exploring **Open Source Contributions**  
 
 ---
