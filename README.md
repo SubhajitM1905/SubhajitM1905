@@ -31,7 +31,7 @@
 ---
 <h2 align="center">🌍 3D Contribution Graph</h2>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-activity-graph/master/3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph"/>
+  <img src="https://raw.githubusercontent.com/SubhajitM1905/github-readme-activity-graph/master/3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph"/>
 </div>
 
 <h2 align="center">👷‍♂️My Contributions👷‍♂️</h2>
