@@ -69,11 +69,11 @@
 
 ---
 
-## 🌟 About Me  
-- 🎓 Currently studying at **University**  
-- 💡 Passionate about **Gaining Knowledge**  
-- 🚀 Always eager to learn how **the things are working**  
-- 📚 Exploring **Open Source Contributions**  
+##  👦About Me  
+🎓 Currently studying at **University**  
+💡 Passionate about **Gaining Knowledge**  
+🚀 Always eager to learn how **Things are working??**  
+📚 Exploring **Open Source Contributions**  
 
 ---
 
