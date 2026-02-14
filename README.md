@@ -51,8 +51,18 @@
   
 </div>
 
+<h2 align="center">⚡ Stats ⚡</h2>
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SubhajitM1905&hide_border=true" />
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=SubhajitM1905&show_icons=true&hide_border=true" 
+    height="165"
+  />
+  
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SubhajitM1905&layout=compact&hide_border=true" 
+    height="165"
+  />
 </p>
 
 
